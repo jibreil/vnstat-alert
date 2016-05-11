@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is a simple python script to control data usage using a set limit, the original script executes the command `sudo shutdown` when the limit is reached and the email version sends an email alert before shutting down the machine.
+This is a simple python script to control data usage by shutting down the machine when a set limit is reached and sends an email alert to the admin.
 
 ## Current Version
 
