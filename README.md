@@ -4,11 +4,6 @@
 
 This is a simple python script to control data usage by shutting down the machine when a set limit is reached and sends an email alert to the admin.
 
-## Current Version
-
-- Version 3.0
-- Released 07/05/2016
-
 ## Requirements
 
 - vnStat
