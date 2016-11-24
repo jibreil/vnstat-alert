@@ -49,4 +49,4 @@ This is a simple python script to control data usage by shutting down the machin
 
 ## Licence
 
-This software is licensed under the MIT License, see the license terms here: https://jibreil.mit-license.org/ or see the `LICENSE.md` file.
+This software is licensed under the MIT License, you can view the license terms at https://jibreil.mit-license.org/ or, in the `LICENSE.md` file.
