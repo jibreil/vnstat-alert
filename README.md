@@ -46,3 +46,7 @@ This is a simple python script to control data usage by shutting down the machin
 
 - Cleanup and new README
 - Email capable version of script added
+
+## Licence
+
+This software is licensed under the MIT License, see the license terms here: https://jibreil.mit-license.org/ or see the `LICENSE.md` file.
